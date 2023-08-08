@@ -1,0 +1,30 @@
+version: '3.7'
+
+services:
+
+  mysql_db:
+    container_name: 'mysql_db'
+    image: 'mysql'
+    environment:
+      MYSQL_DATABASE: mysql
+      MYSQL_USER: user
+      MYSQL_PASSWORD: root
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - 3306:3306
+
+
+
+
+  backend:
+    build: .
+    container_name: backend
+    restart: always
+    ports:
+      - 8090:8090
+    depends_on:
+      - mysql_db
+
+volumes:
+  postgres-db:
+    driver: local

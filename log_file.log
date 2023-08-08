@@ -1,0 +1,380 @@
+2023-08-07 20:29:07 INFO  AuthController:20 - New authRequest
+2023-08-07 20:29:08 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 20:29:08 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 20:29:08 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 20:29:08 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 20:29:08 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:29:08 ERROR StorageRepository:80 - Failed to save file testFile
+2023-08-07 20:29:08 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 20:29:08 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:29:08 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 20:29:08 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:29:08 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:29:09 ERROR StorageService:21 - Error input data
+2023-08-07 20:29:09 ERROR StorageService:21 - Error input data
+2023-08-07 20:29:09 ERROR StorageService:21 - Error input data
+2023-08-07 20:29:09 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:29:09 ERROR StorageService:21 - Error input data
+2023-08-07 20:29:09 ERROR StorageService:21 - Error input data
+2023-08-07 20:29:09 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:29:59 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:29:59 ERROR StorageRepository:80 - Failed to save file testFile
+2023-08-07 20:29:59 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 20:29:59 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:29:59 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 20:29:59 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:29:59 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:34:05 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:34:05 ERROR StorageRepository:80 - Failed to save file testFile
+2023-08-07 20:34:05 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:34:05 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:36:02 INFO  AuthController:20 - New authRequest
+2023-08-07 20:36:03 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:36:03 ERROR StorageRepository:80 - Failed to save file testFile
+2023-08-07 20:36:03 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 20:36:03 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:36:03 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 20:36:03 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:36:03 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:36:03 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 20:36:03 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 20:36:03 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 20:36:03 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 20:36:03 ERROR StorageService:21 - Error input data
+2023-08-07 20:36:03 ERROR StorageService:21 - Error input data
+2023-08-07 20:36:03 ERROR StorageService:21 - Error input data
+2023-08-07 20:36:03 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:36:03 ERROR StorageService:21 - Error input data
+2023-08-07 20:36:03 ERROR StorageService:21 - Error input data
+2023-08-07 20:36:03 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:40:19 INFO  AuthController:20 - New authRequest
+2023-08-07 20:40:19 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 20:40:19 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 20:40:19 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 20:40:19 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 20:40:19 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:40:19 ERROR StorageRepository:80 - Failed to save file testFile
+2023-08-07 20:40:19 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 20:40:19 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:40:19 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 20:40:19 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:40:19 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:40:20 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:20 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:20 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:20 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:40:20 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:20 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:20 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:40:33 INFO  AuthController:20 - New authRequest
+2023-08-07 20:40:33 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 20:40:33 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 20:40:33 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 20:40:33 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 20:40:33 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:40:33 ERROR StorageRepository:80 - Failed to save file testFile
+2023-08-07 20:40:33 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 20:40:33 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:40:33 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 20:40:33 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:40:33 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 20:40:34 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:34 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:34 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:34 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:40:34 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:34 ERROR StorageService:21 - Error input data
+2023-08-07 20:40:34 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:41:13 INFO  AuthController:20 - New authRequest
+2023-08-07 20:41:14 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 20:41:14 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 20:41:14 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 20:41:14 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 20:41:14 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 20:41:14 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 20:41:14 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:41:14 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:14 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:14 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:14 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:41:14 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:14 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:14 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:41:22 INFO  AuthController:20 - New authRequest
+2023-08-07 20:41:22 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 20:41:22 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 20:41:23 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 20:41:23 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 20:41:23 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 20:41:23 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 20:41:23 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 20:41:23 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:23 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:23 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:23 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 20:41:23 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:23 ERROR StorageService:21 - Error input data
+2023-08-07 20:41:23 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 22:31:46 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 22:33:54 ERROR StorageRepository:80 - Failed to save file foo.txt
+2023-08-07 22:35:35 INFO  AuthController:20 - New authRequest
+2023-08-07 22:35:35 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 22:35:35 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 22:35:35 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 22:35:35 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 22:35:35 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 22:35:35 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 22:35:35 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 22:35:36 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:36 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:36 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:36 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 22:35:36 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:36 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:36 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 22:35:46 INFO  AuthController:20 - New authRequest
+2023-08-07 22:35:47 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 22:35:47 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 22:35:47 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 22:35:47 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 22:35:47 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 22:35:47 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 22:35:47 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 22:35:47 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:47 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:47 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:47 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 22:35:47 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:47 ERROR StorageService:21 - Error input data
+2023-08-07 22:35:47 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:08:57 INFO  AuthController:20 - New authRequest
+2023-08-07 23:08:57 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 23:08:57 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 23:08:57 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 23:08:57 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 23:08:58 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 23:08:58 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 23:08:58 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 23:08:58 ERROR StorageService:21 - Error input data
+2023-08-07 23:08:58 ERROR StorageService:21 - Error input data
+2023-08-07 23:08:58 ERROR StorageService:21 - Error input data
+2023-08-07 23:08:58 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:08:58 ERROR StorageService:21 - Error input data
+2023-08-07 23:08:58 ERROR StorageService:21 - Error input data
+2023-08-07 23:08:58 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:09:07 INFO  AuthController:20 - New authRequest
+2023-08-07 23:09:07 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 23:09:07 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 23:09:07 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 23:09:07 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 23:09:07 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 23:09:07 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 23:09:07 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 23:09:07 ERROR StorageService:21 - Error input data
+2023-08-07 23:09:07 ERROR StorageService:21 - Error input data
+2023-08-07 23:09:07 ERROR StorageService:21 - Error input data
+2023-08-07 23:09:07 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:09:07 ERROR StorageService:21 - Error input data
+2023-08-07 23:09:07 ERROR StorageService:21 - Error input data
+2023-08-07 23:09:07 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:09:59 INFO  AuthController:20 - New authRequest
+2023-08-07 23:09:59 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 23:09:59 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 23:09:59 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 23:09:59 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 23:10:00 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 23:10:00 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 23:10:00 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 23:10:00 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:00 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:00 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:00 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:10:00 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:00 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:00 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:10:11 INFO  AuthController:20 - New authRequest
+2023-08-07 23:10:11 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 23:10:11 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 23:10:11 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 23:10:11 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 23:10:12 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 23:10:12 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 23:10:12 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 23:10:12 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:12 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:12 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:12 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:10:12 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:12 ERROR StorageService:21 - Error input data
+2023-08-07 23:10:12 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:39:02 INFO  AuthController:20 - New authRequest
+2023-08-07 23:39:02 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 23:39:02 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 23:39:02 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 23:39:02 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 23:39:02 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 23:39:02 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 23:39:02 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 23:39:02 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:03 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:03 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:03 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:39:03 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:03 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:03 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:39:10 INFO  AuthController:20 - New authRequest
+2023-08-07 23:39:10 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 23:39:10 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 23:39:10 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 23:39:10 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 23:39:11 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 23:39:11 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 23:39:11 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 23:39:11 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:11 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:11 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:11 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:39:11 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:11 ERROR StorageService:21 - Error input data
+2023-08-07 23:39:11 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:57:21 INFO  AuthController:20 - New authRequest
+2023-08-07 23:57:21 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-07 23:57:21 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-07 23:57:21 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-07 23:57:21 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-07 23:57:22 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-07 23:57:22 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-07 23:57:22 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-07 23:57:22 ERROR StorageService:21 - Error input data
+2023-08-07 23:57:22 ERROR StorageService:21 - Error input data
+2023-08-07 23:57:22 ERROR StorageService:21 - Error input data
+2023-08-07 23:57:22 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-07 23:57:22 ERROR StorageService:21 - Error input data
+2023-08-07 23:57:22 ERROR StorageService:21 - Error input data
+2023-08-07 23:57:22 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:21:47 INFO  AuthController:20 - New authRequest
+2023-08-08 09:21:47 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-08 09:21:47 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 09:21:47 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-08 09:21:47 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-08 09:21:48 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-08 09:21:48 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-08 09:21:48 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-08 09:21:48 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:48 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:48 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:48 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:21:48 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:48 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:48 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:21:57 INFO  AuthController:20 - New authRequest
+2023-08-08 09:21:57 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-08 09:21:57 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 09:21:57 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-08 09:21:57 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-08 09:21:57 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-08 09:21:57 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-08 09:21:57 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-08 09:21:57 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:58 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:58 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:58 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:21:58 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:58 ERROR StorageService:21 - Error input data
+2023-08-08 09:21:58 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:34:21 INFO  AuthController:20 - New authRequest
+2023-08-08 09:34:21 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-08 09:34:21 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 09:34:21 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-08 09:34:21 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-08 09:34:22 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-08 09:34:22 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-08 09:34:22 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-08 09:34:22 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:22 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:22 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:22 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:34:22 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:22 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:22 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:34:34 INFO  AuthController:20 - New authRequest
+2023-08-08 09:34:34 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-08 09:34:34 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 09:34:34 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-08 09:34:34 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-08 09:34:34 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-08 09:34:34 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-08 09:34:35 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-08 09:34:35 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:35 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:35 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:35 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:34:35 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:35 ERROR StorageService:21 - Error input data
+2023-08-08 09:34:35 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:50:16 INFO  AuthController:20 - New authRequest
+2023-08-08 09:50:16 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-08 09:50:16 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 09:50:16 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-08 09:50:16 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-08 09:50:17 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-08 09:50:17 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-08 09:50:17 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-08 09:50:17 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:17 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:17 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:17 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:50:17 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:17 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:17 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:50:32 INFO  AuthController:20 - New authRequest
+2023-08-08 09:50:32 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-08 09:50:32 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 09:50:32 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-08 09:50:32 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-08 09:50:33 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-08 09:50:33 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-08 09:50:33 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-08 09:50:33 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:33 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:33 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:33 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:50:33 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:33 ERROR StorageService:21 - Error input data
+2023-08-08 09:50:33 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:55:55 INFO  AuthController:20 - New authRequest
+2023-08-08 09:55:56 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-08 09:55:56 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 09:55:56 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-08 09:55:56 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-08 09:55:56 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-08 09:55:56 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-08 09:55:56 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-08 09:55:56 ERROR StorageService:21 - Error input data
+2023-08-08 09:55:56 ERROR StorageService:21 - Error input data
+2023-08-08 09:55:56 ERROR StorageService:21 - Error input data
+2023-08-08 09:55:56 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:55:56 ERROR StorageService:21 - Error input data
+2023-08-08 09:55:56 ERROR StorageService:21 - Error input data
+2023-08-08 09:55:56 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:56:13 INFO  AuthController:20 - New authRequest
+2023-08-08 09:56:13 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-08 09:56:13 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 09:56:13 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-08 09:56:13 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-08 09:56:14 ERROR StorageRepository:102 - Error upload file foo.txt
+2023-08-08 09:56:14 ERROR StorageRepository:92 - Error deleting file foo.txt
+2023-08-08 09:56:14 ERROR StorageRepository:113 - Error rename file foo.txt
+2023-08-08 09:56:14 ERROR StorageService:21 - Error input data
+2023-08-08 09:56:14 ERROR StorageService:21 - Error input data
+2023-08-08 09:56:14 ERROR StorageService:21 - Error input data
+2023-08-08 09:56:14 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 09:56:14 ERROR StorageService:21 - Error input data
+2023-08-08 09:56:14 ERROR StorageService:21 - Error input data
+2023-08-08 09:56:14 INFO  StorageService:27 - getFileList by UserLogin
+2023-08-08 17:24:44 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 17:25:06 INFO  CloudStorageController:53 - PUT Request: edit filename: foo.txt
+2023-08-08 17:25:06 INFO  CloudStorageController:31 - saveFile foo.txt by John Smith
+2023-08-08 17:25:06 INFO  CloudStorageController:45 - GET Request: download file: null
+2023-08-08 17:25:06 INFO  CloudStorageController:23 - getFileList by principal, limit = 1
+2023-08-08 17:26:34 INFO  AuthController:20 - New authRequest
